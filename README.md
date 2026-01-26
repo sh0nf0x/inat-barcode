@@ -2,6 +2,12 @@
 
 A Python GUI tool that creates beautiful barcode visualizations from iNaturalist observation data. The tool downloads images from CSV exports and converts them into a color-based barcode where each pixel represents the average color of an image.
 
+## Example
+
+![Example Barcode](composite_image_2025.png)
+
+*A sample barcode generated from iNaturalist observations*
+
 ## Features
 
 - 🎨 **GUI Interface** - User-friendly dark theme with intuitive controls

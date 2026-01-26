@@ -4,7 +4,7 @@ A Python GUI tool that creates beautiful barcode visualizations from iNaturalist
 
 ## Example
 
-![Example Barcode](composite_image_2025.png)
+![Example Barcode](output%20example.png)
 
 *A sample barcode generated from iNaturalist observations*
 

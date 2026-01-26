@@ -1,5 +1,7 @@
 # iNat Barcode Generator
 
+> ⚠️ **EARLY BETA** - This project is in early beta and additional testing is required. Please report any issues or unexpected behavior on GitHub.
+
 A Python GUI tool that creates beautiful barcode visualizations from iNaturalist observation data. The tool downloads images from CSV exports and converts them into a color-based barcode where each pixel represents the average color of an image.
 
 ## Example

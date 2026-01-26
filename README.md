@@ -65,8 +65,9 @@ python inat_barcode_gui.py
 
 1. Visit [iNaturalist.org](https://www.inaturalist.org)
 2. Filter observations (by location, taxa, date range, etc.)
-3. Click **Export** and select **CSV**
-4. Save the file in your working directory
+3. Click **Download** and you will be navigated to https://www.inaturalist.org/observations/export
+4. Uncheck all the boxes except uuid and the image_url
+5. Export the CSV and save the file in your working directory
 
 ## How It Works
 
@@ -133,5 +134,6 @@ Contributions welcome! Feel free to submit issues or pull requests.
 ## Author
 
 Created for iNaturalist observation analysis
+
 
 
